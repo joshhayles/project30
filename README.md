@@ -1,9 +1,4 @@
-## Introduction
-Hi! I'm Josh Hayles. I graduated from Flatiron as a Software Engineer. This is my documentation for Algo practice and Algo solutions. My primary focus is Javascript. 
+# Introduction
+Hi! I'm Josh Hayles. I'm a Solutions Engineer @ Datadog. I'm a tech-enthusiast (especially Real Estate Tech), and a student of Software Engineering for web development.
 
-## Before I start coding
-1. Rewrite the problem in my own words
-2. Validate that I understand the problem
-3. Write my own test cases
-4. Pseudocode
-5. Code!
+Project30 is my one year experiment learning Python, DSAs, Databases, and more. It consists of 12, thirty day challenges, each one with a specific focus.
