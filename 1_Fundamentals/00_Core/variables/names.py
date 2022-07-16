@@ -5,7 +5,6 @@
 # Camel, Pascal, and Snake are all acceptable variable arrangements
 
 #Legal
-
 myvar = 'John'
 my_var = 'John'
 _my_var = 'John'
