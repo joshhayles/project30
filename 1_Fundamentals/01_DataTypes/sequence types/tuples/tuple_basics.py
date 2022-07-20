@@ -9,4 +9,4 @@ print(this_tuple)
 
 this_tuple = ("apple", "banana", "orange")
 
-print(len(this_tuple))
+print(len(this_tuple)) # => 3

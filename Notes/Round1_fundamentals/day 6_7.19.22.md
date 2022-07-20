@@ -1,4 +1,4 @@
-# 7.18.22 day 5 of fundamentals
+# 7.19.22 day 6 of fundamentals
 
 ## resources
     - https://www.w3schools.com/python/python_syntax.asp
