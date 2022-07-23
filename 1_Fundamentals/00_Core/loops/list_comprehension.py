@@ -21,13 +21,17 @@ print(newlist) # => ['apple', 'banana', 'mango']
 
 # a condition that's NOT true:
 fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+
 newlist = [x for x in fruits if x != "apple"]
+
 print(newlist)
 
-# the condition can also be omitted:
+# the condition can also be omitted to print the whole list:
 newlist2 = [x for x in fruits]
+
 print(newlist2) # => ['apple', 'banana', 'cherry', 'kiwi', 'mango']
 
 # syntax:
 # newlist = [expression for item in iterable if condition == True]
 # the return value is a new list, leaving the old list unchanged
+

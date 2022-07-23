@@ -1,5 +1,5 @@
 
-# removed specified index
+# removes specified index
 
 thislist = ["apple", "banana", "cherry"]
 thislist.pop(1)
