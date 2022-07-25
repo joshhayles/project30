@@ -4,7 +4,7 @@
 txt = "My name is {first_name}, I'm {age}".format(first_name = "Josh", age = 41)
 print(txt) # => My name is Josh, I'm 41
 
-# you can also use inicies 
+# you can also use indicies
 txt2 = "My name is {0}, I'm {1}".format("Joshua", 42)
 print(txt2) # => "My name is Joshua, I'm 42"
 

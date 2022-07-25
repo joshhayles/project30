@@ -5,6 +5,5 @@
 
 # string.rfind(value, start, end)
     # value is required
-
 txt = "Mi casa, su casa"
 print(txt.rfind("su")) # => 9

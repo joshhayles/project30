@@ -6,4 +6,11 @@ thislist = ["apple", "banana", "cherry"]
 i = 0
 while i < len(thislist):
     print(thislist[i])
-    i = i + 1
+    i = i + 1 # => apple banana cherry
+
+# using a tuple
+thistuple = ("apple", "banana", "cherry")
+i = 0
+while i < len(thistuple):
+    print(thistuple[i])
+    i = i + 1 # => apple banana cherry

@@ -3,4 +3,7 @@
 # same as find() except it will throw a ValueError exception if it's unable to find the substring
 
 x = "hello"
-print(x.find("l"))
+print(x.find("z")) # => -1
+
+x = "hello"
+print(x.find("o")) # => 4

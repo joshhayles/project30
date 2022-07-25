@@ -1,6 +1,5 @@
 
 # removes white space (left, or right) from a string
-
 txt = "   hello   "
 print(txt.lstrip())
 
