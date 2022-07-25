@@ -1,8 +1,10 @@
 
 # returns true if all characters in a string are decimals
-
-txt = "jjhay"
+txt = "yes"
 print(txt.isdecimal()) # => False
 
-numb = "2"
-print(numb.isdecimal())
+txt2 = "2"
+print(txt2.isdecimal()) # => True
+
+txt3 = "2.65"
+print(txt3.isdecimal()) # => False

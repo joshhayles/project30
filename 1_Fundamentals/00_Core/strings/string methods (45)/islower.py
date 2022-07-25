@@ -4,5 +4,5 @@
 txt = "true"
 print(txt.islower()) # => True
 
-txt = "True"
+txt = "TRUE"
 print(txt.islower()) # => False
