@@ -5,9 +5,12 @@ txt = "demo"
 print(txt.isidentifier()) # => True
 
 txt = "2demo"
-print(txt.isidentifier()) # => False
+print(txt.isidentifier()) # => False | can't start with a number
 
 txt = " demo"
 print(txt.isidentifier()) # => False
+
+txt = "_demo"
+print(txt.isidentifier()) # => True
 
 

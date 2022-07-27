@@ -9,3 +9,6 @@ thisdict = {
 }
 thisdict.update({"year": 2022})
 print(thisdict["year"]) # => 2022
+
+thisdict.update({"brand": "Rockin"})
+print(thisdict["brand"]) # => Rockin

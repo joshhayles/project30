@@ -6,3 +6,6 @@ print(txt.isspace()) # True
 
 txt = " s "
 print(txt.isspace()) # False
+
+txt = ""
+print(txt.isspace()) # False
