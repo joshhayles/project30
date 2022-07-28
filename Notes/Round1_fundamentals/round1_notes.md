@@ -1,3 +1,29 @@
+
+# Strategy
+
+    ## Read. Recite. Record. Review. Repeat
+        - Read a section of material. Close it and hide notes
+        - Recite everything I can remember about what I read
+        - Record, or write the code to the best of my ability
+        - Review the material and correct what needs correction
+        - Repeat at least three times, or until code can be written from scratch
+
+    ## Meaningful application and connection
+        - Apply what I'm learning and connect it in a meaningful way that helps internalize the material. 
+        - Use mental imagery to help solidify the concepts.
+
+    ## Test myself
+        - Build a project
+        - Solve quick exercises / problems
+
+# Pomodoro Technique (Interval Training)
+        - 25 minutes of work
+            - 5 minute break
+        - 3 cycles is 90 minutes
+        - 4 cycles is 120 minutes (2hrs)
+
+-----------------------------------------------------------------
+
 # 7.14.22 day 1 of fundamentals
 
 ## resources
@@ -115,6 +141,32 @@
 ## notes
     - Reviewed (15min) string methods | stopped at Core > strings > string methods > maketrans
     - Left off at Python If...Else
+
+## revisit
+    - Need to revisit unpacking tuples
+
+# 7.27.22 day 13 of fundamentals
+
+## resources
+    - https://www.w3schools.com/python/python_syntax.asp
+    - 100 Days of Coding in Python Udemy Course (being used as a guideline. The course is practice-driven vs. teaching without implementing)
+
+## notes
+    - Reviewed (15min) string methods | stopped at Core > strings > string methods > rfind
+    - Left off at Python If...Else
+
+## revisit
+    - Need to revisit unpacking tuples
+
+# 7.28.22 day 14 of fundamentals
+
+## resources
+    - https://www.w3schools.com/python/python_syntax.asp
+    - 100 Days of Coding in Python Udemy Course (being used as a guideline. The course is practice-driven vs. teaching without implementing)
+
+## notes
+    - Reviewed (15min) string methods | stopped at Core > Variables > assigning new values
+    - Left off at Python Functions > Arbitrary Arguments (*args)
 
 ## revisit
     - Need to revisit unpacking tuples
