@@ -1,15 +1,14 @@
-# returns false for zero
-bool()
-print(bool(0))
 
-# returns true for nonzero numbers
-bool()
-print(bool(2))
+# Almost everything in Python is an object. A class is like an object constructor, or a "blueprint" for creating objects.
 
-# returns false for empty string
-bool()
-print(bool(""))
+# use the class keyword
+class MyClass:
+    x = 5
 
-# returns true for nonempty string
-bool()
-print(bool("hello"))
+print(MyClass) # => <class '__main__.MyClass'>
+
+# now we can use the class named MyClass to create objects.
+
+# create an object named p1, and print the value of x:
+MyClass()
+print(MyClass.x) # => 5

@@ -170,3 +170,16 @@
 
 ## revisit
     - Need to revisit unpacking tuples
+
+# 7.29.22 day 15 of fundamentals
+
+## resources
+    - https://www.w3schools.com/python/python_syntax.asp
+    - 100 Days of Coding in Python Udemy Course (being used as a guideline. The course is practice-driven vs. teaching without implementing)
+
+## notes
+    - Reviewed (10min) string methods | stopped at Core > Variables > assigning new values
+    - Left off at Python Classes > Object Methods
+
+## revisit
+    - Need to revisit unpacking tuples
