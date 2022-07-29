@@ -179,7 +179,7 @@
 
 ## notes
     - Reviewed (10min) string methods | stopped at Core > Variables > assigning new values
-    - Left off at Python Classes > Object Methods
+    - Left off at Python Modules > dir() function
 
 ## revisit
     - Need to revisit unpacking tuples
