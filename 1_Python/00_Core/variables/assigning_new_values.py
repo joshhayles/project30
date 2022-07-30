@@ -7,4 +7,4 @@ temperature = 98
 temperature = temperature + 2
 
 print(temperature) # 100
-print(type(temperature))
+print(type(temperature)) # <class 'int'>
