@@ -197,3 +197,17 @@
 
 ## revisit
     - Need to revisit unpacking tuples
+
+# 7.31.22 day 17 of fundamentals
+
+## resources
+    - https://www.w3schools.com/python/python_syntax.asp
+    - https://www.w3schools.com/python/exercise.asp?filename=exercise_datatypes6
+
+## notes
+    - Reviewed (10min) string methods | stopped at Core > Variables > many_values_to
+    - Finished Python Fundamental topics!
+    - Started Python exercises to practice. Left off at Python Data Types > Exercise 6
+
+## revisit
+    - Need to revisit unpacking tuples
